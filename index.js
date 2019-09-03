@@ -96,5 +96,5 @@ const app = http.createServer((req, res) => {
 });
 
 app.listen(8000, () => {
-  console.log('Listening to the port 8000');
+  console.log('Listenings to the port 8000');
 });
